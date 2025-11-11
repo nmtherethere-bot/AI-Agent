@@ -1,0 +1,9 @@
+agents\weather\WeatherAgent.class
+agents\multitool\MultiToolAgent.class
+samples\liveaudio\LiveAudioRun.class
+samples\liveaudio\ScienceTeacherAgent.class
+com\example\agent\AgentCliRunner.class
+com\example\agent\HelloTimeAgent.class
+agents\team\WeatherTeamAgent.class
+agents\etiquette\EtiquetteAgent.class
+agents\weather\OpenMeteoTool.class
